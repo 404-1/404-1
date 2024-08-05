@@ -3,7 +3,7 @@
 <h1 align="center">Hi👋, I'm Vict0r (@404-1)</h1>
 <h3 align="center">I'm a Mechanical Engineer and I like to think I have a good sense of humor</h3>
 
-<img align="right" alt="Jet Engine Compressor Drawings Set" width="400" src="https://i.pinimg.com/564x/1d/9a/f3/1d9af3cd4fe360a6aa14d12d6754bfb8.jpg"
+<img align="right" alt="Jet Engine Compressor Drawings Set" width="400" src="https://i.pinimg.com/564x/1d/9a/f3/1d9af3cd4fe360a6aa14d12d6754bfb8.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=404-1&label=Profile%20views&color=0e75b6&style=plastic&abbreviated=true" alt="404-1" /> </p>
 
@@ -29,6 +29,7 @@
 
 <!--Instagram-->
 <a href="https://www.instagram.com/v.ii.c_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v.ii.c_" height="30" width="40" /></a>
+
 </p>
 
 
