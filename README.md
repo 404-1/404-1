@@ -27,8 +27,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left"> 
-<a href="https://www.linkedin.com/in/victor-agbaso/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Victor .A." height="20" width="30" /> </a>
-<a href="https://www.instagram.com/v.ii.c_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v.ii.c_" height="20" width="30" /> </a>
+<a href="https://www.linkedin.com/in/victor-agbaso/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Victor .A." height="20" width="30" /></a>
+<a href="https://www.instagram.com/v.ii.c_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v.ii.c_" height="20" width="30" /></a>
 </p>
 
 <!--Languages and Tools-->
